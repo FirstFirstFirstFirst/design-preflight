@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "@anthropic-skills/design-preflight",
   "version": "1.0.0",
   "description": "Supabase Design System preflight check skill for Claude Code.",
